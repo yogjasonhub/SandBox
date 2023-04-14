@@ -1,10 +1,23 @@
+/* TAG SELECTORS */
 body {
-    color : red; 
-    font-size: 100px;
-}
-h1 {
-    color: aquamarine;
+    font-size: 50px;
 }
 img {
     background-color: blueviolet;
+}
+
+/* CLASS SELECTORS */
+.bacon {
+    background-color: brown;
+}
+.brocolli {
+    background-color: coral;
+}
+.circular {
+    border-radius: 100%;
+}
+
+/* ID SELECTORS */
+#MyHeading {
+    color: rgb(130, 8, 167);
 }
