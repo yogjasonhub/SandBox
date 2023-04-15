@@ -2,3 +2,19 @@
 h1, h2 {
     color: blueviolet;
 }
+
+.box > .done {
+    color: firebrick;
+}
+
+.list li {
+    color: blue;
+}
+
+li.done {
+    color: green;
+}
+
+ul p.done {
+    font-size: 50px;
+}
