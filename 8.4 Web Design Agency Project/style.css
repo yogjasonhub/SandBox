@@ -32,14 +32,12 @@ footer {
 }
 
 .leftcard {
-  display: inline-block;
   width: 45%;
   float: left;
   background-color: aquamarine;
 }
 
 .rightcard {
-  display: inline-block;
   width: 45%;
   float: right;
   background-color: chocolate;
